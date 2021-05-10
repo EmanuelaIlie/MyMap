@@ -32,7 +32,7 @@
   <h3 align="center">MyMap</h3>
 
   <p align="center">
-    Mobile App that replaces physical cards with smartphones
+    Desktop application for teachers and students
     <br />
     <a href="https://github.com/EmanuelaIlie/MyMap"><strong>Explore the docs »</strong></a>
     <br />
