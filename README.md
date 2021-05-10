@@ -26,7 +26,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/EmanuelaIlie/MyMap">
-    <img src="images/logo.png" alt="Logo" width="170" height="80">
+    <img src="images/logo.PNG" alt="Logo" width="170" height="80">
   </a>
 
   <h3 align="center">MyMap</h3>
@@ -97,7 +97,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-* Android studio
+* Eclipse
   You can download it here: https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers
 
 ### Installation
