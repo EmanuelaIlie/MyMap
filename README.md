@@ -133,7 +133,7 @@ Here i will post some screenshots to ilustrate how the app works.
 4. Create notes
 
 <a href="https://github.com/EmanuelaIlie/MyMap">
-    <img src="images/notite.PNG" alt="profile" width="300" height="700">
+    <img src="images/notite.PNG" alt="profile" width="300" height="300">
   </a>
 
 5. Edit/add information
