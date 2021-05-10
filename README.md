@@ -75,15 +75,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Green food is a vegan recipes application, written in romanian language.
-I did not found a similar application in play store. This is my project for
-Programming on mobile devices.
+MyMap is a desktop application for teachers and Middle School
+students. Like student user, you can make your "map", where you write
+personal data(age, weight, height, hobbies, etc), you can see information
+about classmates and you can manage your information. Like teacher
+user, you can see information about students by classes and you can
+manage all information. This was my project for Individual Project
+module.
 
 ### Built With
 
-* [Android Studio](https://developer.android.com/studio)
-* [Glide](https://github.com/bumptech/glide)
-* [Firebase](https://firebase.google.com/)
+* [Eclipse](https://www.eclipse.org/)
+* [Swing](https://www.javatpoint.com/java-swing)
+* [MySQL](https://www.mysql.com/)
 
 
 <!-- GETTING STARTED -->
@@ -94,7 +98,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 * Android studio
-  You can download it here: https://developer.android.com/studio
+  You can download it here: https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers
 
 ### Installation
 
@@ -111,52 +115,39 @@ Here i will post some screenshots to ilustrate how the app works.
 1. Login screen
 
 <a href="https://github.com/EmanuelaIlie/MyMap">
-    <img src="images/login.jpg" alt="profile" width="300" height="700">
+    <img src="images/main.png" alt="profile" width="300" height="700">
   </a>
 
 2. Easy registration
 
 <a href="https://github.com/EmanuelaIlie/MyMap">
-    <img src="images/newacc.jpg" alt="profile" width="300" height="700">
+    <img src="images/newacc.png" alt="profile" width="300" height="700">
   </a>
 
-3. After login, category
+3. After login, student's profile
 
 <a href="https://github.com/EmanuelaIlie/MyMap">
-    <img src="images/categorii.jpg" alt="profile" width="300" height="700">
+    <img src="images/elev.png" alt="profile" width="300" height="700">
   </a>
 
-4. All recipes for selected category
+4. Create notes
 
 <a href="https://github.com/EmanuelaIlie/MyMap">
-    <img src="images/one category.jpg" alt="profile" width="300" height="700">
+    <img src="images/notite.png" alt="profile" width="300" height="700">
   </a>
 
-5. Recipe
+5. Edit/add information
 
 <a href="https://github.com/EmanuelaIlie/MyMap">
-    <img src="images/retet.jpg" alt="profile" width="300" height="700">
+    <img src="images/gestionare mapa.png" alt="profile" width="300" height="700">
   </a>
 
-6. Admin profile
+6. After login, teacher's profile
 
 <a href="https://github.com/EmanuelaIlie/MyMap">
-    <img src="images/admin.jpg" alt="profile" width="300" height="700"">
+    <img src="images/profesor.png" alt="profile" width="300" height="700"">
   </a>
-                                                                       
-7. Add category
- 
-<a href="https://github.com/EmanuelaIlie/MyMap">
-    <img src="images/addcategorie.jpg" alt="profile" width="300" height="700">
-  </a>
-  
-8. Add recipe
- 
-<a href="https://github.com/EmanuelaIlie/MyMap">
-    <img src="images/addreteta.jpg" alt="profile" width="300" height="700">
-  </a>
-
-
+                    
 
 <!-- CONTRIBUTING -->
 ## Contributing
