@@ -115,19 +115,19 @@ Here i will post some screenshots to ilustrate how the app works.
 1. Login screen
 
 <a href="https://github.com/EmanuelaIlie/MyMap">
-    <img src="images/main.PNG" alt="profile" width="300" height="700">
+    <img src="images/main.PNG" alt="profile" width="300" height="300">
   </a>
 
 2. Easy registration
 
 <a href="https://github.com/EmanuelaIlie/MyMap">
-    <img src="images/newacc.PNG" alt="profile" width="300" height="700">
+    <img src="images/newacc.PNG" alt="profile" width="300" height="300">
   </a>
 
 3. After login, student's profile
 
 <a href="https://github.com/EmanuelaIlie/MyMap">
-    <img src="images/elev.PNG" alt="profile" width="300" height="700">
+    <img src="images/elev.PNG" alt="profile" width="300" height="300">
   </a>
 
 4. Create notes
@@ -139,13 +139,13 @@ Here i will post some screenshots to ilustrate how the app works.
 5. Edit/add information
 
 <a href="https://github.com/EmanuelaIlie/MyMap">
-    <img src="images/gestionare mapa.PNG" alt="profile" width="300" height="700">
+    <img src="images/gestionare mapa.PNG" alt="profile" width="300" height="300">
   </a>
 
 6. After login, teacher's profile
 
 <a href="https://github.com/EmanuelaIlie/MyMap">
-    <img src="images/profesor.PNG" alt="profile" width="300" height="700"">
+    <img src="images/profesor.PNG" alt="profile" width="300" height="300"">
   </a>
                     
 
